@@ -1,0 +1,9 @@
+<html>
+<head>
+<tittle>how to get full marks</title>
+</head>
+<body>
+<h1> plan the theory what your are reading</h1>
+<p>read some of yoou known topics about how to get full marks.</p>
+</body>
+</html>
